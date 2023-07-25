@@ -4,6 +4,7 @@ title = 'Ciencia Básica'
 defaultContentLanguage = 'es'
 
 theme = 'hugo-book'
+canonifyURLs = true
 
 [params]
 
