@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Ciencia Básica</title>
-    <link>http://example.org/tags/</link>
+    <link>http://https://curso-ciencia-basica-f-ciencias-unam.github.io/tags/</link>
     <description>Recent content in Tags on Ciencia Básica</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-MX</language><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>es-MX</language><atom:link href="http://https://curso-ciencia-basica-f-ciencias-unam.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
