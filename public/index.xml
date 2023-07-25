@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Inicio on Ciencia Básica</title>
+    <link>http://example.org/</link>
+    <description>Recent content in Inicio on Ciencia Básica</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-MX</language>
+    <lastBuildDate>Sat, 15 Jul 2023 10:27:05 -0600</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Práctica 0</title>
+      <link>http://example.org/practicas/practica-00/</link>
+      <pubDate>Sat, 15 Jul 2023 11:01:28 -0600</pubDate>
+      
+      <guid>http://example.org/practicas/practica-00/</guid>
+      <description>Práctica 0 # Introducción a NetLogo
+Contenido: 5 videos
+Duración estimada: 1 hora Introducción # En este curso vamos a estar usando NetLogo. NetLogo es una plataforma para hacer simulaciones computacionales. NetLogo utiliza un lenguaje de programación muy sencillo que permite hacer modelos muy complejos de manera muy sencilla. Así mismo, cuando uno crea un modelo con NetLogo paralelamente también crea una visualización la cual nos va a permitir explorar de forma interactiva los distintos fenómenos que estudiaremos a lo largo del curso.</description>
+    </item>
+    
+    <item>
+      <title>Práctica 1</title>
+      <link>http://example.org/practicas/practica-01/</link>
+      <pubDate>Mon, 24 Jul 2023 18:06:09 -0600</pubDate>
+      
+      <guid>http://example.org/practicas/practica-01/</guid>
+      <description> Practica 1 # Movimiento en 1 dimensión, movimiento parabólico y tráfico
+Contenido: x videos
+Duración estimada: x Introducción # </description>
+    </item>
+    
+    <item>
+      <title>Presentación</title>
+      <link>http://example.org/presentacion/</link>
+      <pubDate>Mon, 24 Jul 2023 18:31:51 -0600</pubDate>
+      
+      <guid>http://example.org/presentacion/</guid>
+      <description>Presentación # Hola,
+Bienvenid@ al curso de Ciencia Básica.
+La presentación del curso se llevará a cabo el lunes 7 de agosto en el aula asignada.
+Sobre el contenido del curso # En este curso revisaremos algunos temas básicos de física, química, biología y de filosofía e historia de la ciencia. Además exploraremos computacionalmente algunos modelos aplicados a estas ciencias bajo una perspectiva de las ciencias de la complejidad.</description>
+    </item>
+    
+  </channel>
+</rss>

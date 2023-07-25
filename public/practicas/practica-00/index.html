@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html lang="es-MX" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Práctica 0 # Introducción a NetLogo
+Contenido: 5 videos
+Duración estimada: 1 hora Introducción # En este curso vamos a estar usando NetLogo. NetLogo es una plataforma para hacer simulaciones computacionales. NetLogo utiliza un lenguaje de programación muy sencillo que permite hacer modelos muy complejos de manera muy sencilla. Así mismo, cuando uno crea un modelo con NetLogo paralelamente también crea una visualización la cual nos va a permitir explorar de forma interactiva los distintos fenómenos que estudiaremos a lo largo del curso.">
+<meta name="theme-color" content="#FFFFFF">
+<meta name="color-scheme" content="light dark"><meta property="og:title" content="Práctica 0" />
+<meta property="og:description" content="Práctica 0 # Introducción a NetLogo
+Contenido: 5 videos
+Duración estimada: 1 hora Introducción # En este curso vamos a estar usando NetLogo. NetLogo es una plataforma para hacer simulaciones computacionales. NetLogo utiliza un lenguaje de programación muy sencillo que permite hacer modelos muy complejos de manera muy sencilla. Así mismo, cuando uno crea un modelo con NetLogo paralelamente también crea una visualización la cual nos va a permitir explorar de forma interactiva los distintos fenómenos que estudiaremos a lo largo del curso." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://example.org/practicas/practica-00/" /><meta property="article:section" content="practicas" />
+<meta property="article:published_time" content="2023-07-15T11:01:28-06:00" />
+<meta property="article:modified_time" content="2023-07-15T11:01:28-06:00" />
+<title>Práctica 0 | Ciencia Básica</title>
+<link rel="manifest" href="/manifest.json">
+<link rel="icon" href="/favicon.png" type="image/x-icon">
+<link rel="stylesheet" href="/book.min.4f0117e74e5337280f18eb9641eae520cb4b25adcf5dd64fafad4664145a5957.css" integrity="sha256-TwEX505TNygPGOuWQerlIMtLJa3PXdZPr61GZBRaWVc=" crossorigin="anonymous">
+  <script defer src="/flexsearch.min.js"></script>
+  <script defer src="/es.search.min.19c5635c97ac5ee54da0c81edc0af0f4a4134c42041576760d2db509230535cd.js" integrity="sha256-GcVjXJesXuVNoMge3Arw9KQTTEIEFXZ2DS21CSMFNc0=" crossorigin="anonymous"></script>
+<!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+  
+</head>
+<body dir="ltr">
+  <input type="checkbox" class="hidden toggle" id="menu-control" />
+  <input type="checkbox" class="hidden toggle" id="toc-control" />
+  <main class="container flex">
+    <aside class="book-menu">
+      <div class="book-menu-content">
+        
+  <nav>
+<h2 class="book-brand">
+  <a class="flex align-center" href="/"><img src="/logo.png" alt="Logo" /><span>Ciencia Básica</span>
+  </a>
+</h2>
+
+
+<div class="book-search">
+  <input type="text" id="book-search-input" placeholder="Buscar" aria-label="Buscar" maxlength="64" data-hotkeys="s/" />
+  <div class="book-search-spinner hidden"></div>
+  <ul id="book-search-results"></ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+
+
+  
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/presentacion/" class="">Presentación</a>
+  
+
+        </li>
+      
+    
+      
+        <li class="book-section-flat" >
+          
+  
+  
+
+  
+    <span>Practicas</span>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/practicas/practica-00/" class="active">Práctica 0</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/practicas/practica-01/" class="">Práctica 1</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+  </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</nav>
+
+
+
+
+  <script>(function(){var e=document.querySelector("aside .book-menu-content");addEventListener("beforeunload",function(){localStorage.setItem("menu.scrollTop",e.scrollTop)}),e.scrollTop=localStorage.getItem("menu.scrollTop")})()</script>
+
+
+ 
+      </div>
+    </aside>
+
+    <div class="book-page">
+      <header class="book-header">
+        
+  <div class="flex align-center justify-between">
+  <label for="menu-control">
+    <img src="/svg/menu.svg" class="book-icon" alt="Menu" />
+  </label>
+
+  <strong>Práctica 0</strong>
+
+  <label for="toc-control">
+    
+    <img src="/svg/toc.svg" class="book-icon" alt="Table of Contents" />
+    
+  </label>
+</div>
+
+
+  
+  <aside class="hidden clearfix">
+    
+  
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#introducción">Introducción</a></li>
+    <li><a href="#instalación-de-netlogo">Instalación de NetLogo</a></li>
+    <li><a href="#qué-es-y-cómo-se-usa-netlogo">¿Qué es y cómo se usa NetLogo?</a></li>
+    <li><a href="#primeros-pasos-con-netlogo">Primeros pasos con NetLogo</a>
+      <ul>
+        <li><a href="#tortugas-parte-1">Tortugas (parte 1)</a></li>
+        <li><a href="#tortugas-parte-2">Tortugas (parte 2)</a></li>
+        <li><a href="#parches">Parches</a></li>
+        <li><a href="#procedimientos-setup-y-go">Procedimientos <code>setup</code> y <code>go</code></a></li>
+      </ul>
+    </li>
+    <li><a href="#historia-de-netlogo">Historia de NetLogo</a></li>
+  </ul>
+</nav>
+
+
+
+  </aside>
+  
+ 
+      </header>
+
+      
+      
+  <article class="markdown"><h1 id="práctica-0">
+  Práctica 0
+  <a class="anchor" href="#pr%c3%a1ctica-0">#</a>
+</h1>
+<p><strong>Introducción a NetLogo</strong></p>
+<blockquote class="book-hint info">
+  <strong>Contenido:</strong> 5 videos<br>
+<strong>Duración estimada:</strong> 1 hora
+</blockquote>
+
+<hr>
+<h2 id="introducción">
+  Introducción
+  <a class="anchor" href="#introducci%c3%b3n">#</a>
+</h2>
+<p>En este curso vamos a estar usando <a href="https://ccl.northwestern.edu/netlogo/">NetLogo</a>. NetLogo es una plataforma para hacer simulaciones computacionales. NetLogo utiliza un lenguaje de programación muy sencillo que permite hacer modelos muy complejos de manera muy sencilla. Así mismo, cuando uno crea un modelo con NetLogo paralelamente también crea una visualización la cual nos va a permitir explorar de forma interactiva los distintos fenómenos que estudiaremos a lo largo del curso.</p>
+<p><img src="/logo-netlogo.jpg" alt="Logo de NetLogo" /></p>
+<p>En esta primera práctica vamos a: (1) instalar NetLogo, (2) ver qué es y cómo se usa, (3) aprender los fundamentos de su lenguaje de programación y (4) aprender sobre la historia de NetLogo.</p>
+<h2 id="instalación-de-netlogo">
+  Instalación de NetLogo
+  <a class="anchor" href="#instalaci%c3%b3n-de-netlogo">#</a>
+</h2>
+<p>Puedes descargar NetLogo directo desde <a href="https://ccl.northwestern.edu/netlogo/6.3.0/">la páginas de descargas en la página oficial</a>. Existen versiones para todos los sistemas operativos (Mac, Windows y Linux). El archivo que descargues debes poder abrirlo directamente y el progama se instalará en tu computadora (si estás en linux entonces debes extraer el archivo: <code>tar -xf ARCHIVO.tgz</code>, y luego correr el archivo ejecutable que se llama <code>netlogo</code>).</p>
+<h2 id="qué-es-y-cómo-se-usa-netlogo">
+  ¿Qué es y cómo se usa NetLogo?
+  <a class="anchor" href="#qu%c3%a9-es-y-c%c3%b3mo-se-usa-netlogo">#</a>
+</h2>
+<p>En este primer video demostramos qué es NetLogo y cómo se usa explorando un modelo de ejemplo.</p>
+<h2 id="primeros-pasos-con-netlogo">
+  Primeros pasos con NetLogo
+  <a class="anchor" href="#primeros-pasos-con-netlogo">#</a>
+</h2>
+<p>En esta sección vamos a ver tres elementos fundamentales de NetLogo: las tortugas, los parches y los procedimientos básicos.</p>
+<h3 id="tortugas-parte-1">
+  Tortugas (parte 1)
+  <a class="anchor" href="#tortugas-parte-1">#</a>
+</h3>
+<h3 id="tortugas-parte-2">
+  Tortugas (parte 2)
+  <a class="anchor" href="#tortugas-parte-2">#</a>
+</h3>
+<h3 id="parches">
+  Parches
+  <a class="anchor" href="#parches">#</a>
+</h3>
+<h3 id="procedimientos-setup-y-go">
+  Procedimientos <code>setup</code> y <code>go</code>
+  <a class="anchor" href="#procedimientos-setup-y-go">#</a>
+</h3>
+<h2 id="historia-de-netlogo">
+  Historia de NetLogo
+  <a class="anchor" href="#historia-de-netlogo">#</a>
+</h2>
+</article>
+ 
+      
+
+      <footer class="book-footer">
+        
+  <div class="flex flex-wrap justify-between">
+
+
+
+
+
+</div>
+
+
+
+  <script>(function(){function e(e){const t=window.getSelection(),n=document.createRange();n.selectNodeContents(e),t.removeAllRanges(),t.addRange(n)}document.querySelectorAll("pre code").forEach(t=>{t.addEventListener("click",function(){if(window.getSelection().toString())return;e(t.parentElement),navigator.clipboard&&navigator.clipboard.writeText(t.parentElement.textContent)})})})()</script>
+
+
+ 
+        
+      </footer>
+
+      
+  
+  <div class="book-comments">
+
+</div>
+  
+ 
+
+      <label for="menu-control" class="hidden book-menu-overlay"></label>
+    </div>
+
+    
+    <aside class="book-toc">
+      <div class="book-toc-content">
+        
+  
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#introducción">Introducción</a></li>
+    <li><a href="#instalación-de-netlogo">Instalación de NetLogo</a></li>
+    <li><a href="#qué-es-y-cómo-se-usa-netlogo">¿Qué es y cómo se usa NetLogo?</a></li>
+    <li><a href="#primeros-pasos-con-netlogo">Primeros pasos con NetLogo</a>
+      <ul>
+        <li><a href="#tortugas-parte-1">Tortugas (parte 1)</a></li>
+        <li><a href="#tortugas-parte-2">Tortugas (parte 2)</a></li>
+        <li><a href="#parches">Parches</a></li>
+        <li><a href="#procedimientos-setup-y-go">Procedimientos <code>setup</code> y <code>go</code></a></li>
+      </ul>
+    </li>
+    <li><a href="#historia-de-netlogo">Historia de NetLogo</a></li>
+  </ul>
+</nav>
+
+
+ 
+      </div>
+    </aside>
+    
+  </main>
+
+  
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+

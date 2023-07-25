@@ -1,0 +1,17 @@
+baseURL = 'http://example.org/'
+languageCode = 'es-MX'
+title = 'Ciencia Básica'
+defaultContentLanguage = 'es'
+
+theme = 'hugo-book'
+
+[params]
+
+
+BookTheme = 'dark'
+BookToC = true
+BookLogo = 'logo.png'
+BookSection = '*'
+BookRepo = ''
+BookCommitPath = 'commit'
+BookSearch = true

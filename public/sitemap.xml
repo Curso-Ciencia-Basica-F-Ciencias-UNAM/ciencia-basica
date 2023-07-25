@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://example.org/practicas/practica-00/</loc>
+    <lastmod>2023-07-15T11:01:28-06:00</lastmod>
+  </url><url>
+    <loc>http://example.org/practicas/practica-01/</loc>
+    <lastmod>2023-07-24T18:06:09-06:00</lastmod>
+  </url><url>
+    <loc>http://example.org/presentacion/</loc>
+    <lastmod>2023-07-24T18:31:51-06:00</lastmod>
+  </url><url>
+    <loc>http://example.org/practicas/</loc>
+    <lastmod>2023-07-24T18:06:09-06:00</lastmod>
+  </url><url>
+    <loc>http://example.org/</loc>
+    <lastmod>2023-07-15T10:27:05-06:00</lastmod>
+  </url><url>
+    <loc>http://example.org/categories/</loc>
+  </url><url>
+    <loc>http://example.org/tags/</loc>
+  </url>
+</urlset>
