@@ -17,7 +17,7 @@ weight: 1
 
 ## Introducción
 
-En este curso vamos a estar usando [NetLogo](https://ccl.northwestern.edu/netlogo/). NetLogo es una plataforma para hacer simulaciones computacionales. NetLogo utiliza un lenguaje de programación muy sencillo que permite hacer modelos muy complejos de manera muy sencilla. Así mismo, cuando uno crea un modelo con NetLogo paralelamente también crea una visualización la cual nos va a permitir explorar de forma interactiva los distintos fenómenos que estudiaremos a lo largo del curso. 
+En este curso vamos a estar usando [NetLogo](https://ccl.northwestern.edu/netlogo/). NetLogo es una plataforma para hacer simulaciones computacionales. NetLogo utiliza un lenguaje de programación muy sencillo que permite hacer modelos muy complejos. Así mismo, cuando uno crea un modelo con NetLogo paralelamente también crea una visualización la cual nos va a permitir explorar de forma interactiva los distintos fenómenos que estudiaremos a lo largo del curso. 
 
 ![Logo de NetLogo](/img/logo-netlogo.jpg)
 

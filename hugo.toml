@@ -8,10 +8,10 @@ theme = 'hugo-book'
 [params]
 
 
-BookTheme = 'dark'
+BookTheme = 'light'
 BookToC = true
-BookLogo = 'logo.png'
+BookLogo = '/img/logo.png'
 BookSection = '*'
-BookRepo = ''
+BookRepo = 'https://github.com/Curso-Ciencia-Basica-F-Ciencias-UNAM/ciencia-basica.git'
 BookCommitPath = 'commit'
 BookSearch = true
