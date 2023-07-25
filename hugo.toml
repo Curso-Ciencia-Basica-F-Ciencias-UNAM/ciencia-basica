@@ -1,4 +1,4 @@
-baseURL = 'http://https://curso-ciencia-basica-f-ciencias-unam.github.io/'
+baseURL = 'https://curso-ciencia-basica-f-ciencias-unam.github.io/'
 languageCode = 'es-MX'
 title = 'Ciencia Básica'
 defaultContentLanguage = 'es'

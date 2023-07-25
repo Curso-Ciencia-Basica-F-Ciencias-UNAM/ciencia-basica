@@ -10,9 +10,11 @@ Bienvenid@ al curso de Ciencia Básica, de la Facultad de Ciencias de la UNAM.
 
 En esta página encontrarás las prácticas del curso.
 
-![un gato](./logo.png) ![un gato](./logo.png) ![un gato](./logo.png) 
+![un gato](./img/logo.png)
+
 
 ## Contacto
 
 - Luis Guillermo García Jácome
 	- **correo:** [lggj37@ciencias.unam.mx](mailto:lggj37@ciencias.unam.mx)
+U
