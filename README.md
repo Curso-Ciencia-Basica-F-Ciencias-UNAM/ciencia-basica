@@ -10,7 +10,16 @@ Instalar hugo:
 sudo apt install hugo
 ```
 
+## Crear contenido
+
+Por ejemplo para crear un template (usando el arquetipo `práctica.md`) para la "Práctica 9" usar:
+
+```
+hugo new prácticas/práctica-09.md
+```
 
 ## Desplegar a github pages
 
-La actualización de la página se hace [automáticamente con Github Actions](https://gohugo.io/hosting-and-deployment/hosting-on-github/) cuando se suben los cambios a Github.
+1. Borrar carpeta `/public`: `rm -fr /public`
+2. Crear carpeta `/public`: `hugo`
+3. Subir cambios a repo en Github. La actualización de la página se hace [automáticamente con Github Actions](https://gohugo.io/hosting-and-deployment/hosting-on-github/).
