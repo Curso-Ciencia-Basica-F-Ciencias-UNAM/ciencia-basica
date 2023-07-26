@@ -5,21 +5,17 @@ date: 2023-07-24T18:31:51-06:00
 
 # Presentación
 
-Hola,
-
 Bienvenid@ al curso de Ciencia Básica.
-
-La presentación del curso se llevará a cabo el lunes 7 de agosto en el aula asignada.
 
 ## Sobre el contenido del curso
 
 En este curso revisaremos algunos temas básicos de física, química, biología y de filosofía e historia de la ciencia. Además exploraremos computacionalmente algunos modelos aplicados a estas ciencias bajo una perspectiva de las ciencias de la complejidad.
 
-El curso consta de 4 módulos: (1) filosofía e historia de la ciencia, (2) introducción a la física, (3) introducción a la química y (4) temas sectos de biología (el temario oficial detallado de los últimos 3 módulos lo pueden consultar [aquí](https://web.fciencias.unam.mx/asignaturas/757.pdf)). 
+El curso consta de 4 módulos: (1) filosofía e historia de la ciencia, (2) introducción a la física, (3) introducción a la química y (4) temas sectos de biología ([temario oficial detallado de los últimos 3 módulos](https://web.fciencias.unam.mx/asignaturas/757.pdf)). 
 
 ## Sobre la dinámica del curso
 
-Este será un curso teórico-práctico. En la parte teórica se revisarán y discutirán conceptos y teorías básicas de las distintas ciencias. En la parte práctica programaremos y exploraremos en [NetLogo](https://ccl.northwestern.edu/netlogo/) algunos modelos básicos (e.g., modelos de cinemática y tráfico, modelos de reacción-diffusión, modelos de ecología de poblaciones, modelos de algoritmos genéticos, etc.). Así mismo estos modelos servirán para discutir algunas ideas de las ciencias de la complejidad.
+Este será un curso teórico-práctico. En la parte teórica se revisarán y discutirán conceptos y teorías básicas de las distintas ciencias. En la parte práctica programaremos y exploraremos en [NetLogo](https://ccl.northwestern.edu/netlogo/) algunos modelos básicos relacionados a los temas que se discutan en la parte teórica (e.g., modelos de cinemática y tráfico, modelos de reacción-diffusión, modelos de ecología de poblaciones, modelos de algoritmos genéticos, etc.). Así mismo estos modelos servirán para discutir algunas ideas de las ciencias de la complejidad.
 
 La parte teórica se realizará 3 veces por semana de forma presencial. Mientras que la parte práctica se realizará 2 veces por semana de forma asincónica (cada quien deberá consultar y seguir los materiales por su cuenta ya que requerirá que utilicen equipo de cómputo).
 

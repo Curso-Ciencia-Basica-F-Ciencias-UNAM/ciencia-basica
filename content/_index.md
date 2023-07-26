@@ -17,3 +17,5 @@ En esta página encontrarás las prácticas del curso.
 
 - Luis Guillermo García Jácome
 	- **correo:** [lggj37@ciencias.unam.mx](mailto:lggj37@ciencias.unam.mx)
+- Carlos Francisco Betancourt Moreno
+	- **correo:** [cfrancisco@ciencias.unam.mx](mailto:cfrancisco@ciencias.unam.mx)

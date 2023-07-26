@@ -4,12 +4,14 @@ title = 'Ciencia Básica'
 defaultContentLanguage = 'es'
 
 theme = 'hugo-book'
+
+# esto es esencial para que en github se muestren las imagenes
 canonifyURLs = true
 
 [params]
 
 
-BookTheme = 'light'
+BookTheme = 'dark'
 BookToC = true
 BookLogo = '/img/logo.png'
 BookSection = '*'
