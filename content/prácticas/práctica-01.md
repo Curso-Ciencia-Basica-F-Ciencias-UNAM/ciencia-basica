@@ -39,45 +39,47 @@ En esta práctica vamos a construir y explorar tres modelos en NetLogo:
 
 ### Gráficas
 
-{{<youtube id="">}}
+{{<youtube id="KTkH_tgjdB4">}}
 
 ## Movimiento parabólico
 
 ### Repaso y definición del modelo
 
-{{<youtube id="">}}
+{{<youtube id="RWHukr7PNwA">}}
 
 ### Extensión a movimiento parabólico (parte 1)
 
-{{<youtube id="">}}
+{{<youtube id="CT3E7m8GUC4">}}
 
 ### Extensión a movimiento parabólico (parte 2)
 
-{{<youtube id="">}}
+{{<youtube id="mHPH2vTdqjg">}}
 
 ### Gráficas
+
+{{<youtube id="SGo8Ln_AdFQ">}}
 
 ## Modelo de tráfico
 
 ### Presentación y definición del modelo
 
-{{<youtube id="">}}
+{{<youtube id="Vc8sBqwTiG4">}}
 
 ### Procedimiento `setup`
 
-{{<youtube id="">}}
+{{<youtube id="SyCroQrqaWg">}}
 
 ### Procedimiento `go`
 
-{{<youtube id="">}}
+{{<youtube id="Nd3XyCCnSK8">}}
 
 ### Visualización y gráficas
 
-{{<youtube id="">}}
+{{<youtube id="rKj3aRFpFNg">}}
 
 ### Pertrubaciones
 
-{{<youtube id="">}}
+{{<youtube id="ghP17olmoJI">}}
 
 ### Tráfico fantasma y propiedades emergentes
 

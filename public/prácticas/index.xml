@@ -1,23 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Inicio on Ciencia Básica</title>
-    <link>https://curso-ciencia-basica-f-ciencias-unam.github.io/</link>
-    <description>Recent content in Inicio on Ciencia Básica</description>
+    <title>Ciencia Básica</title>
+    <link>https://curso-ciencia-basica-f-ciencias-unam.github.io/pr%C3%A1cticas/</link>
+    <description>Recent content on Ciencia Básica</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-MX</language>
-    <lastBuildDate>Sat, 15 Jul 2023 10:27:05 -0600</lastBuildDate><atom:link href="https://curso-ciencia-basica-f-ciencias-unam.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Presentación</title>
-      <link>https://curso-ciencia-basica-f-ciencias-unam.github.io/presentaci%C3%B3n/</link>
-      <pubDate>Mon, 24 Jul 2023 18:31:51 -0600</pubDate>
-      
-      <guid>https://curso-ciencia-basica-f-ciencias-unam.github.io/presentaci%C3%B3n/</guid>
-      <description>Presentación # Bienvenid@ al curso de Ciencia Básica.
-Sobre el contenido del curso # En este curso revisaremos algunos temas básicos de física, química, biología y de filosofía e historia de la ciencia. Además exploraremos computacionalmente algunos modelos aplicados a estas ciencias bajo una perspectiva de las ciencias de la complejidad.
-El curso consta de 4 módulos: (1) filosofía e historia de la ciencia, (2) introducción a la física, (3) introducción a la química y (4) temas sectos de biología (temario oficial detallado de los últimos 3 módulos).</description>
-    </item>
-    
+    <lastBuildDate>Mon, 24 Jul 2023 18:06:09 -0600</lastBuildDate><atom:link href="https://curso-ciencia-basica-f-ciencias-unam.github.io/pr%C3%A1cticas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Práctica 0</title>
       <link>https://curso-ciencia-basica-f-ciencias-unam.github.io/pr%C3%A1cticas/pr%C3%A1ctica-00/</link>
