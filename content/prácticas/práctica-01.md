@@ -6,7 +6,7 @@ weight: 11
 
 # Practica 1
 
-**Movimiento en 1 dimensión, movimiento parabólico y tráfico**
+**Movimiento en 1 dimensión, movimiento parabólico y juego de cañón**
 
 {{<hint info>}} 
 **Contenido:** 11 videos  
