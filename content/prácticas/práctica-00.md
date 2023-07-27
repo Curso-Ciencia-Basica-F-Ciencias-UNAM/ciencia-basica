@@ -1,7 +1,7 @@
 ---
 title: "Práctica 0"
 date: 2023-07-15T11:01:28-06:00
-weight: 1
+weight: 10
 ---
 
 #  Práctica 0
@@ -10,7 +10,7 @@ weight: 1
 
 {{<hint info>}} 
 **Contenido:** 6 videos  
-**Duración estimada:** 50 minutos
+**Duración estimada:** 47 minutos
 {{</hint>}}
  
 ---
@@ -60,6 +60,14 @@ En esta sección vamos a ver tres aspectos fundamentales de los modelos de NetLo
 ### Tortugas (parte 2)
 
 {{<youtube id="f1rTBM4jNSM">}}
+
+{{<hint warning>}}**Info**  
+Algunos comandos vistos en el video tienen sinónimos para escribirlos de forma más rápida:
+- `forward` se puede escribir como `fd`
+- `back` se puede escribir como `bk`
+- `left` se puede escribir como `lt`
+- `right` se puede escribir como `rt`
+{{</hint>}}
 
 ### Parches
 
