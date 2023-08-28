@@ -4,62 +4,76 @@ date: 2023-07-24T18:06:09-06:00
 weight: 11
 ---
 
-# Practica 1
+# Práctica 1
 
 **Movimiento en 1 dimensión, movimiento parabólico y juego de cañón**
 
-{{<hint info>}} 
+{{<hint info>}}
 **Contenido:** 11 videos  
 **Duración estimada:** 1 hora 24 minutos
 {{</hint>}}
 
 ---
 
-## Introducción
+## Introducción 
 
-En esta práctica vamos a construir y explorar tres modelos en NetLogo: 
+Esta práctica consiste de dos partes. En la primera parte vamos a construir en NetLogo modelos de movimiento en 1 y 2 dimensiones. Y en la segunda parte vamos a extender el modelo de movimiento en 2 dimensiones para construir un juego de tiro de un cañon.
 
-1. modelo del movimiento en 1 dimensión, 
-2. modelo del movimiento parabólico y 
-3. juego de lanzamiento de un cañon.
+---
 
-## Movimiento en 1 dimensión {#mov-1D}
+## Parte I: Movimiento en 1D y 2D
 
-### Repaso y definición del modelo
+<!-- {{<hint info>}} -->
+<!-- **Contenido:** 8 videos   -->
+<!-- **Duración estimada:** 56 minutos -->
+<!-- {{</hint>}} -->
+
+
+### Movimiento en 1 dimensión {#mov-1D}
+
+#### Repaso y definición del modelo
 
 {{<youtube id="wBd_9hC8Pjg">}}
 
-### Procedimiento `setup`
+#### Procedimiento `setup`
 
 {{<youtube id="YxNLfj0ju9o">}}
 
-### Procedimiento `go`
+#### Procedimiento `go`
 
 {{<youtube id="V72aePovv7U">}}
 
-### Gráficas
+#### Gráficas
 
 {{<youtube id="KTkH_tgjdB4">}}
+
+{{<hint danger>}}**Corrección**  
+En el minuto 2:42 cuando se agrega la gráfica de velocidad vs tiempo las etiquetas del eje de las X y del eje de las Y se pusieron invertidas. En _X axis label_ debe ir `tiempo` y en _Y axis label_ debe ir `velocidad`. 
+{{</hint>}}
 
 {{<hint warning>}}**Explora el modelo**  
 Modifica los parámetros del modelo y observa qué pasa con las gráficas. ¿Cómo cambian las gráficas cuando mueves el parámetro `aceleracion` mientras el modelo está corriendo?
 {{</hint>}}
 
-## Movimiento parabólico
+### Movimiento parabólico
 
-### Repaso y definición del modelo
+#### Repaso y definición del modelo
 
 {{<youtube id="RWHukr7PNwA">}}
 
-### Extensión a movimiento parabólico (parte 1)
+#### Extensión a movimiento parabólico (parte 1)
 
 {{<youtube id="CT3E7m8GUC4">}}
 
-### Extensión a movimiento parabólico (parte 2)
+{{<hint danger>}}**Corrección**  
+En el minuto 8:24 se menciona que el valor de _min-pycor_ es 1, sin embargo, el valor correcto que se usa es -1.
+{{</hint>}}
+
+#### Extensión a movimiento parabólico (parte 2)
 
 {{<youtube id="mHPH2vTdqjg">}}
 
-### Gráficas
+#### Gráficas
 
 {{<youtube id="SGo8Ln_AdFQ">}}
 
@@ -69,18 +83,25 @@ Modifica los parámetros del modelo y observa qué pasa con las gráficas.
 - ¿Qué pasa si modificas el valor de `aceleracion-x`? ¿Qué podría representar que la aceleración en x fuera distinta de cero?
 {{</hint>}}
 
+---
 
-## Juego de cañón
+## Parte II: Juego de cañón
 
-### Presentación del juego
+<!-- {{<hint info>}} -->
+<!-- **Contenido:** 3 videos   -->
+<!-- **Duración estimada:** 28 minutos -->
+<!-- {{</hint>}} -->
+
+
+#### Presentación del juego
 
 {{<youtube id="o4Ss3189MHw">}}
 
-### Extensión a juego de cañón (parte 1)
+#### Extensión a juego de cañón (parte 1)
 
 {{<youtube id="x-27lAT1cmc">}}
 
-### Extensión a juego de cañón (parte 2)
+#### Extensión a juego de cañón (parte 2)
 
 {{<youtube id="9TeAzqqtgH0">}}
 

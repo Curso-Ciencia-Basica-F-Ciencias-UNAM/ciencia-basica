@@ -2,6 +2,7 @@
 title: "Práctica 2"
 date: 2023-07-27T13:28:14-06:00
 weight: 12
+draft: True
 ---
 
 # Práctica 2
