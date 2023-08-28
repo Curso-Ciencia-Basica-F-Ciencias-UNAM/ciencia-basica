@@ -8,10 +8,10 @@ weight: 11
 
 **Movimiento en 1 dimensión, movimiento parabólico y juego de cañón**
 
-{{<hint info>}}
-**Contenido:** 11 videos  
-**Duración estimada:** 1 hora 24 minutos
-{{</hint>}}
+<!-- {{<hint info>}}  -->
+<!-- **Contenido:** 11 videos   -->
+<!-- **Duración estimada:** 1 hora 24 minutos -->
+<!-- {{</hint>}} -->
 
 ---
 
@@ -23,11 +23,10 @@ Esta práctica consiste de dos partes. En la primera parte vamos a construir en 
 
 ## Parte I: Movimiento en 1D y 2D
 
-<!-- {{<hint info>}} -->
-<!-- **Contenido:** 8 videos   -->
-<!-- **Duración estimada:** 56 minutos -->
-<!-- {{</hint>}} -->
-
+{{<hint info>}}
+**Contenido:** 8 videos  
+**Duración estimada:** 56 minutos
+{{</hint>}}
 
 ### Movimiento en 1 dimensión {#mov-1D}
 
@@ -87,11 +86,10 @@ Modifica los parámetros del modelo y observa qué pasa con las gráficas.
 
 ## Parte II: Juego de cañón
 
-<!-- {{<hint info>}} -->
-<!-- **Contenido:** 3 videos   -->
-<!-- **Duración estimada:** 28 minutos -->
-<!-- {{</hint>}} -->
-
+{{<hint info>}}
+**Contenido:** 3 videos  
+**Duración estimada:** 28 minutos
+{{</hint>}}
 
 #### Presentación del juego
 
