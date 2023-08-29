@@ -17,18 +17,16 @@ weight: 11
 
 ## Introducción 
 
-Esta práctica consiste de dos partes. En la primera parte vamos a construir en NetLogo modelos de movimiento en 1 y 2 dimensiones. Y en la segunda parte vamos a extender el modelo de movimiento en 2 dimensiones para construir un juego de tiro de un cañon.
+Esta práctica consiste de dos partes. En la primera parte vamos a construir en NetLogo un modelo de movimiento en 1 dimensión. Y en la segunda parte vamos a construir un modelo de movimiento en 2 dimensiones (movimiento parabólico) y extenderlo a un juego de tiro de un cañon.
 
 ---
 
-## Parte I: Movimiento en 1D y 2D
+## Parte I: Movimiento en 1D {#mov-1D}
 
 {{<hint info>}}
-**Contenido:** 8 videos  
-**Duración estimada:** 56 minutos
+**Contenido:** 4 videos  
+**Duración estimada:** 27 minutos
 {{</hint>}}
-
-### Movimiento en 1 dimensión {#mov-1D}
 
 #### Repaso y definición del modelo
 
@@ -52,6 +50,15 @@ En el minuto 2:42 cuando se agrega la gráfica de velocidad vs tiempo las etique
 
 {{<hint warning>}}**Explora el modelo**  
 Modifica los parámetros del modelo y observa qué pasa con las gráficas. ¿Cómo cambian las gráficas cuando mueves el parámetro `aceleracion` mientras el modelo está corriendo?
+{{</hint>}}
+
+---
+
+## Parte II: Movimiento en 2D {#mov-2D}
+
+{{<hint info>}}
+**Contenido:** 7 videos  
+**Duración estimada:** 57 minutos
 {{</hint>}}
 
 ### Movimiento parabólico
@@ -82,14 +89,7 @@ Modifica los parámetros del modelo y observa qué pasa con las gráficas.
 - ¿Qué pasa si modificas el valor de `aceleracion-x`? ¿Qué podría representar que la aceleración en x fuera distinta de cero?
 {{</hint>}}
 
----
-
-## Parte II: Juego de cañón
-
-{{<hint info>}}
-**Contenido:** 3 videos  
-**Duración estimada:** 28 minutos
-{{</hint>}}
+### Juego de cañon
 
 #### Presentación del juego
 
