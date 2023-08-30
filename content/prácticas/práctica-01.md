@@ -28,6 +28,8 @@ Esta práctica consiste de dos partes. En la primera parte vamos a construir en 
 **Duración estimada:** 27 minutos
 {{</hint>}}
 
+![Gif modelo de movimiento en 1 dimension](/img/1D.gif)
+
 #### Repaso y definición del modelo
 
 {{<youtube id="wBd_9hC8Pjg">}}
@@ -63,6 +65,8 @@ Modifica los parámetros del modelo y observa qué pasa con las gráficas. ¿Có
 
 ### Movimiento parabólico
 
+![Gif modelo de movimiento parabólico](/img/parabolico.gif)
+
 #### Repaso y definición del modelo
 
 {{<youtube id="RWHukr7PNwA">}}
@@ -90,6 +94,8 @@ Modifica los parámetros del modelo y observa qué pasa con las gráficas.
 {{</hint>}}
 
 ### Juego de cañon
+
+![Gif modelo de juego de cañón](/img/cañón.gif)
 
 #### Presentación del juego
 
