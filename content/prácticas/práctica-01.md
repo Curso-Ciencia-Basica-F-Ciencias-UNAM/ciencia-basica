@@ -91,6 +91,7 @@ En el minuto 8:24 se menciona que el valor de _min-pycor_ es 1, sin embargo, el 
 Modifica los parámetros del modelo y observa qué pasa con las gráficas.
 - ¿Qué pasa si aumentas la aceleración de la gravedad? Pon el valor de `aceleracion-x` igual a 0 y modifica el valor de `aceleracion-y`.
 - ¿Qué pasa si modificas el valor de `aceleracion-x`? ¿Qué podría representar que la aceleración en x fuera distinta de cero?
+- ¿Qué conjunto de parámetros te generan un "tiro vertical"?
 {{</hint>}}
 
 ### Juego de cañon
