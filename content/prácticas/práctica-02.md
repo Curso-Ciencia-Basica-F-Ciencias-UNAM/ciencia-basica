@@ -1,71 +1,42 @@
 ---
 title: "Práctica 2"
-date: 2023-07-27T13:28:14-06:00
+date: 2023-09-07T09:49:45-06:00
 weight: 12
-draft: True
 ---
 
 # Práctica 2
 
-**Modelo de tráfico**
+**Movimiento de un resorte**
 
 {{<hint info>}}
-**Contenido:** 6 videos  
-**Duración estimada:** 1 hora 2 minutos 
+**Contenido:** 5 videos  
+**Duración estimada:** 31 minutos
 {{</hint>}}
 
 ---
 
 ## Introducción
 
-¿Cómo es que se forma el tráfico? En esta práctica vamos a construir y explorar un modelo sobre la formación de tráfico. En la [práctica 1]( {{< ref "./práctica-01#movimiento-en-1-dimensión" >}}) exploramos el movimiento en una dimensión de un carro. En este modelo vamos a explorar que pasa cuando ponemos a varios carros a moverse en una dimensión permitiendo que cambien su aceleración para evitar chocar.
+En esta práctica vamos a construir un modelo básico del movimiento de un resorte a través de aplicar la ley de Hook.
 
-## Presentación y definición del modelo
+![Gif modelo de movimiento de un resorte](/img/resorte.gif)
 
-{{<youtube id="NyJ8hz7VmoA">}}
+## Repaso y definición del modelo
 
-{{<hint danger>}}**Corrección**  
-Al principio del video se menciona que esta es "la primera práctica" pero esta es la segunda práctica.
-
-{{</hint>}}
+{{<youtube id="zXCP5RFbL6Q">}}
 
 ## Procedimiento `setup`
 
-{{<youtube id="nE3tVM4kNec">}}
+{{<youtube id="kpeQgr21xpw">}}
 
 ## Procedimiento `go`
 
-{{<youtube id="9Di1n-GE7X0">}}
+{{<youtube id="HmXREtmNbfU">}}
 
-## Visualización y gráficas
+## Gráficas de x, v, a y F
 
-{{<youtube id="vZqQdSQK0BA">}}
+{{<youtube id="-fzWpavAPNU">}}
 
-{{<hint warning>}}**Explora el modelo**
+## Gráficas de K, U y E
 
-- Pon los valores de `aceleracion` y `desaceleracion` en valores de 0.0045 y 0.026, respectivamente, y explora que pasa cuando modificas el parámetro `numero-de-carros`. ¿Cuál es la velocidad máxima, mínimima y velocidad del auto muestra cuando tienes pocos autos? ¿Qué pasa conforme aumentas el número de autos?
-- Pon el valor de `numero-de-autos` en 20 y el de `aceleracion` en 0.0045. Pon el valor de `desaceleracion` en 0 y ve subiéndolo poco a poco. ¿Qué significa que el valor de `desaceleracion` sea 0? ¿Qué pasa conforme aumenta el valor de `desaceleracion`?
-{{</hint>}}
-
-## Pertrubaciones
-
-{{<youtube id="Yg2SLN-thK4">}}
-
-{{<hint warning>}}**Explora el modelo**
-
-¿Qué pasa cuando aumentas el tamaño de la perturbación? Pon el parámetro `numero-de-carros` en 18 y pon que la posicion y velocidad inicial sean homogeneas. Aumenta el tamaño de la perturbación dando click muchas veces seguidas en el botón `perturbación`. ¿Para qué cantidad de autos el disturbio logra desaparecer?
-
-{{</hint>}}
-
-## Tráfico fantasma y propiedades emergentes
-
-{{<youtube id="dikGpjcegRU">}}
-
-{{<hint info>}}**Material complementario**
-
-Si les interesa saber más sobre el tráfico fantasma pueden consultar [el artículo donde se describe el experimento](https://iopscience.iop.org/article/10.1088/1367-2630/15/10/103034/pdf) y los siguientes videos:
-- [Video: ¿Cómo se forman los atascos de tráfico en nuestras carreteras? Tu eres el culpable](https://www.youtube.com/watch?v=z2_1sfbHbgY)
-- [Video: Why the @#$% is there so much traffic?](https://www.youtube.com/watch?v=TNokBgtSUvQ&themeRefresh=1)
-- [Video: The Simple Solution to Traffic](https://www.youtube.com/watch?v=iHzzSao6ypE)
-
-{{</hint>}}
+{{<youtube id="dikeBR_lCX4">}}
