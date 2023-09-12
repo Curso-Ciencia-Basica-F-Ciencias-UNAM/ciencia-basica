@@ -405,7 +405,7 @@ set k                ;; <- poner valor
 
 ;;; cuerpo 1
 set cuerpo1? True
-set m1 1             ;; <- poner valor
+set m1 1
 set vx1              ;; <- poner valor
 set vy1              ;; <- poner valor
 set x1               ;; <- poner valor
