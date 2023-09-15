@@ -389,7 +389,7 @@ Si les interesa saber más sobre el problema de los 3 cuerpos y las dinámicas c
 
 ## Actividad de evidencia
 
-{{<youtube id="BlLCGsCq_kk">}}
+{{<youtube id="nQzI3HpeWpY">}}
 
 {{<hint warning>}}**Galería de soluciones periódicas del problema de los 3 cuerpos**
 
