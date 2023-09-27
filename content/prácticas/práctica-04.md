@@ -1,11 +1,10 @@
 ---
-title: "Práctica X"
+title: "Práctica 4"
 date: 2023-07-27T13:28:14-06:00
-weight: 22
-draft: True
+weight: 14
 ---
 
-# Práctica X
+# Práctica 4
 
 **Modelo de tráfico**
 
@@ -18,14 +17,16 @@ draft: True
 
 ## Introducción
 
-¿Cómo es que se forma el tráfico? En esta práctica vamos a construir y explorar un modelo sobre la formación de tráfico. En la [práctica 1]( {{< ref "./práctica-01#movimiento-en-1-dimensión" >}}) exploramos el movimiento en una dimensión de un carro. En este modelo vamos a explorar que pasa cuando ponemos a varios carros a moverse en una dimensión permitiendo que cambien su aceleración para evitar chocar.
+¿Cómo es que se forma el tráfico? En esta práctica vamos a construir y explorar un modelo sobre la formación de tráfico. En la [práctica 1]( {{< ref "./práctica-01#movimiento-en-1-dimensión" >}}) exploramos el movimiento en una dimensión de un carro. En este modelo vamos a explorar que pasa cuando ponemos a varios carros a moverse en una dimensión permitiendo que cambien su aceleración para evitar chocar. En este sencillo fenómeno encontraremos algunas propiedades características de los sistemas complejos como las propiedades emergentes y los puntos críticos.
+
+![tráfico fantasma](/img/trafico-fantasma.gif)
 
 ## Presentación y definición del modelo
 
 {{<youtube id="NyJ8hz7VmoA">}}
 
 {{<hint danger>}}**Corrección**  
-Al principio del video se menciona que esta es "la primera práctica" pero esta es la segunda práctica.
+Al principio del video se menciona que esta es "la primera práctica" pero esta es la cuarta práctica.
 
 {{</hint>}}
 
