@@ -62,6 +62,10 @@ Al principio del video se menciona que esta es "la primera práctica" pero esta 
 
 {{<youtube id="dikGpjcegRU">}}
 
+{{<hint danger>}}**Corrección**  
+En el minuto 7:35 cuando se habla de "la práctica pasada" se hace referencia al modelo de las parvadas que se usó en la [Práctica 0: Introducción a Netlogo](  {{<ref "./práctica-00" >}}).
+{{</hint>}}
+
 {{<hint info>}}**Material complementario**
 
 Si les interesa saber más sobre el tráfico fantasma pueden consultar [el artículo donde se describe el experimento](https://iopscience.iop.org/article/10.1088/1367-2630/15/10/103034/pdf) y los siguientes videos:
