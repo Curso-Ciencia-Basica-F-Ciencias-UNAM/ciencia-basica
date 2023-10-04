@@ -19,6 +19,8 @@ weight: 15
 
 En esta práctica vamos a construir un modelo en el que vamos a reconstruir los espectros de emisión y absorción del átomo de hidrógeno y de átomos "tipo hidórgeno".
 
+![Espectro de absorción y de emisión del hidgrógeno](/img/espectros-hidrogeno.gif)
+
 ## Repaso y definición del modelo
 
 {{<youtube id="2sWEeX05sj8">}}
