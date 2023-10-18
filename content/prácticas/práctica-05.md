@@ -30,7 +30,7 @@ En esta práctica vamos a construir un modelo en el que vamos a reconstruir los 
 {{<youtube id="AP72y3d6Ujk">}}
 
 {{<hint info>}}**Descarga**  
-[Descarga el archivo inicial del modelo de espectros de emisión del oxígeno.](/descargas/espectro-hidogeno-base.nlogo). 
+[Descarga el archivo inicial del modelo de espectros de emisión del hidrógeno.](/descargas/espectro-hidogeno-base.nlogo). 
 
 Si te abre el archivo en un tu navegador da click derecho y luego selecciona "Guardar página como...".
 
