@@ -19,10 +19,9 @@ weight: 16
 
 Esta práctica consiste de dos partes. En la primera parte vamos a construir un modelo de gas ideal sin interacciones entre partículas y exploraremos como se relacionan las variables macroscópicas de los gases: presión, temperatura y volumen. En la segunda parte vamos a extender nuestro modelo para considerar qué ocurre cuando ocurren interacciones entre partículas, particularmente choques elásticos.
 
+![Modelo cinética de los gases](/img/cinetica-gases.gif)
+
 ## Parte I
-
-<!-- ![Modelo de gas ideal sin colisiones entre partículas](/img/gas-ideal-1.gif) -->
-
 
 ### Repaso y definición del modelo
 
@@ -72,8 +71,6 @@ Si te abre el archivo en un tu navegador da click derecho y luego selecciona "Gu
 <!-- {{<youtube id="OjFquOndU88">}} -->
 
 ## Parte II
-
-<!-- ![Modelo de gas ideal con colisiones entre partículas](/img/gas-ideal-1.gif) -->
 
 ### Explicación extensión del modelo
 
