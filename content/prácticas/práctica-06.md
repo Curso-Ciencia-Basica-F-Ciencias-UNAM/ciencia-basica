@@ -76,6 +76,10 @@ Si te abre el archivo en un tu navegador da click derecho y luego selecciona "Gu
 
 {{<youtube id="rhsZpp63Ot4">}}
 
+{{<hint info>}}**Para saber más**  
+Si quieres saber más sobre las colisiones elásticas y de donde viene la expresión que utilizamos para modelarla puedes consultar la [página de wikipedia sore colisiones elásticas](https://en.wikipedia.org/wiki/Elastic_collision#Two-dimensional_collision_with_two_moving_objects).
+{{</hint>}}
+
 ### Colisiones entre partículas
 
 {{<youtube id="2RgjIsOIOcI">}}
