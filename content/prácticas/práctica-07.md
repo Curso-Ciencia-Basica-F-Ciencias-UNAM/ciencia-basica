@@ -26,9 +26,17 @@ En esta paráctica vamos a estudiar 3 fenómenos intimamente relacionados: el mo
 
 {{<youtube id="w2Vroz6Ytmc">}}
 
-## Modelo de movimiento Browniano
+## Modelo de movimiento browniano
 
 {{<youtube id="vGmUQkRbcko">}}
+
+{{<hint info>}}**Descarga**  
+[Descarga el modelo de movimiento browniano](/descargas/mov-browniano.nlogo). 
+
+Si te abre el archivo en un tu navegador da click derecho y luego selecciona "Guardar página como...".
+
+{{</hint>}}
+
 
 ## Caminata aleatoria en 1D
 
