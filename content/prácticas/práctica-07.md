@@ -10,7 +10,7 @@ weight: 17
 
 {{<hint info>}}
 **Contenido:** 10 videos  
-**Duración estimada:** 1 hora 10 minutos 
+**Duración estimada:** 1 hora 28 minutos 
 {{</hint>}}
 
 ---
@@ -18,6 +18,11 @@ weight: 17
 ## Introducción
 
 En esta paráctica vamos a estudiar 3 fenómenos intimamente relacionados: el movimiento browniano, las caminatas aleatorias en una y dos dimensiones y la difusión.
+
+<!-- ![Modelo cinética de los gases](/img/cinetica-gases.gif) -->
+<!-- ![Modelo cinética de los gases](/img/cinetica-gases.gif) -->
+<!-- ![Modelo cinética de los gases](/img/cinetica-gases.gif) -->
+<!-- ![Modelo cinética de los gases](/img/cinetica-gases.gif) -->
 
 {{<youtube id="w2Vroz6Ytmc">}}
 
@@ -57,8 +62,14 @@ En esta paráctica vamos a estudiar 3 fenómenos intimamente relacionados: el mo
 
 ### Explicación del modelo
 
-{{<youtube id="">}}
+{{<youtube id="elZxlGabtFk">}}
 
 ### Construcción del modelo
 
-{{<youtube id="">}}
+{{<youtube id="cVT4IOz16ig">}}
+
+{{<hint info>}}**Para saber más**  
+Si quieres saber más y ver más figuras formadas por este modelo puedes consular los siguientes recursos:
+- [DLA - Diffusion Limited Aggregation - Paul Bourke](https://paulbourke.net/fractals/dla/)
+- [Random surface growth](https://web.mit.edu/8.334/www/grades/projects/projects17/OscarMickelin/index.html)
+{{</hint>}}
