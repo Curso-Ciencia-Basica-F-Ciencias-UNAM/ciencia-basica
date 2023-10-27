@@ -19,14 +19,11 @@ weight: 17
 
 En esta paráctica vamos a estudiar 3 fenómenos intimamente relacionados: el movimiento browniano, las caminatas aleatorias en una y dos dimensiones y la difusión.
 
-<!-- ![Modelo cinética de los gases](/img/cinetica-gases.gif) -->
-<!-- ![Modelo cinética de los gases](/img/cinetica-gases.gif) -->
-<!-- ![Modelo cinética de los gases](/img/cinetica-gases.gif) -->
-<!-- ![Modelo cinética de los gases](/img/cinetica-gases.gif) -->
-
 {{<youtube id="w2Vroz6Ytmc">}}
 
 ## Modelo de movimiento browniano
+
+![Movimiento browniano](/img/mov-browniano.gif)
 
 {{<youtube id="vGmUQkRbcko">}}
 
@@ -39,6 +36,8 @@ Si te abre el archivo en un tu navegador da click derecho y luego selecciona "Gu
 
 
 ## Caminata aleatoria en 1D
+
+![Caminata aleatoria 1D](/img/caminata-1D.gif)
 
 ### Procedimiento `setup`
 
@@ -54,6 +53,9 @@ Si te abre el archivo en un tu navegador da click derecho y luego selecciona "Gu
 
 ## Caminata aleatoria en 2D
 
+![Caminata aleatoria 2D](/img/caminata-2D-2.gif)
+![Difusión](/img/caminata-2D.gif)
+
 ### Caminata en una látice
 
 {{<youtube id="0CVSU5Gh4u4">}}
@@ -67,6 +69,8 @@ Si te abre el archivo en un tu navegador da click derecho y luego selecciona "Gu
 {{<youtube id="hov7U7l9t9Y">}}
 
 ## Agregación limitada por difusión
+
+![Agregación limitada por difusión](/img/DLA.gif)
 
 ### Explicación del modelo
 
