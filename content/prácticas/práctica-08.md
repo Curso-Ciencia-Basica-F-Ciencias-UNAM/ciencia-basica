@@ -10,7 +10,7 @@ weight: 18
 
 {{<hint info>}}
 **Contenido:** 6 videos  
-**Duración estimada:** 55 minutos 
+**Duración estimada:** 49 minutos 
 {{</hint>}}
 
 ---
@@ -24,6 +24,10 @@ En esta práctica vamos a explorar el concepto de entropía a través de un mode
 ## Entropía y entropía de Shannon
 
 {{<youtube id="LQUax94k3Hc">}}
+
+{{<hint danger>}}**Corrección**  
+En el video se menciona que en un _sistema cerrado_ es en el que no hay intercambio de materia y energía con su ambiente, sin embargo, lo que se debía decir es que en un _sistema aislado_ no hay intercabmio de materia y energía con su ambiente. En un sistema cerrado no hay intercambio de materia pero de energía si puede haber. 
+{{</hint>}}
 
 {{<hint info>}}**Para saber más**  
 Si quieres saber más sobre la entropía de Shannon y la teoría de la información puedes consultar los siguientes recursos:
@@ -47,6 +51,6 @@ Si quieres saber más sobre la entropía de Shannon y la teoría de la informaci
 
 {{<youtube id="BSNmQhiwykA">}}
 
-## Gráfica de entropía de Shannon
+<!-- ## Gráfica de entropía de Shannon -->
 
-{{<youtube id="oJheOY_Qhm0">}}
+<!-- {{<youtube id="oJheOY_Qhm0">}} -->
